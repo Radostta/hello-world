@@ -1,4 +1,4 @@
 # hello-world
 
 Hi, just another coffee maniac here!
-Changes mage for the sake of changes.
+Changes made for the sake of changes.
