@@ -4,4 +4,4 @@ This is a change, made from the remote server.
 
 This is a change, made from the local server.
 
-This is a second local change.
+This is a second remote change.
