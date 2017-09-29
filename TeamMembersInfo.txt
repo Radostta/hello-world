@@ -1,0 +1,64 @@
+Team Info
+
+Question:
+1. What is your name?
+2. Where are you from?
+3. What do you like?
+4. Why did you join SoftUni?
+
+Team Members:
+
+1. Radostina Cvetkova (me)
+2. Born in Plovdiv, lived in Popovo, in Veliko Tyrnovo and currently in Sofia.
+3. Likes translating, reading, dancing, and as of recently - coding.
+4. Picked the Software University, because of its quality courses, relevant to the current business needs in BG.
+
+1. Aleksandur Gyuzelov
+2. Burgas
+3. Playing with his son (for the rest I do not have time)
+4. Because there are no other places to learn this craft!
+
+1. Boyko Katranchev
+2. Born in Sofia
+3. Cinema
+4. Because he wants to work in software industry and SoftUni is the top place in Bulgaria.
+
+1. Gergana Hristova.
+2. Born in Shumen.
+3. Spends free time with friends. Practices different kinds of sport like volleyball, running, swimming, but
+also dancing and hiking.
+4. Chose SoftUni, because it will bring her one step closer to becoming a software engineer. Also SoftUni distinguishes from the other universities 
+by providing more practical experience and quality education.
+
+1. Martin Todorov
+2. Born in Veliko Turnovo, beautiful city worth visiting.
+3. Interested in all kind of things/activities as long as it provides him joy of doing them.
+4. Chose SoftUni because he believes that they are the current Top programming university, with meanings to help anyone who wants to develop in that path. 
+ 
+1. Radina Dineva
+2. Sofia, Bulgaria
+3. Alternative music and sci-fi 
+4. Tech is the future and i wanna be a part of it
+
+1. Svetla Yordanova
+2. Null
+3. Reading adventures and fantasy.
+4. Because of her desire to work in the industry.
+
+1. Svetoslav Mishev
+2. Born in Lovech
+3. In spare time plays football and cycling
+4. Interested in software technologies and picked SoftUni because
+there are top ranked courses and modules in convinient time for every student.
+
+
+1. Velizar Velikov.
+2. Born in Rousse, living in Sofia for the last 10 years.
+3. Modelling different subjects in 72 scale. Also likes salsa and bachata.
+4. Chose SoftUni, because programming will be one of the professions wich will not become obsolete in the next 30 years because of 
+more and more automation, computerization and cybernation in economics.
+
+1. Zhelyan Radoev
+2. Varna
+3. Cycling, Coding, Gaming
+4. Likes the way SoftUni courses are designed. They're always concentrated on solving a lot of interesting problems.
