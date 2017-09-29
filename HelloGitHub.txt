@@ -1,10 +1,9 @@
-п»їHello, GitHub!
+Hello, GitHub!
 
 This is a change, made from the remote server.
 
-Р”РѕР±Р°РІРёС… РїРѕ-РґРѕР±СЉСЂ РЅРѕРІ СЂРµРґ.
-
-This is a change, made from the local server.
+Добавям втори ред.
+Добавям трети ред.
 
 This is a second remote change.
 
