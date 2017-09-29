@@ -1,8 +1,8 @@
-Hello, GitHub!
-
-Добавих нов ред.
+﻿Hello, GitHub!
 
 This is a change, made from the remote server.
+
+Добавих по-добър нов ред.
 
 This is a change, made from the local server.
 
