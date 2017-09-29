@@ -1,5 +1,7 @@
 Hello, GitHub!
 
+Добавих нов ред.
+
 This is a change, made from the remote server.
 
 This is a change, made from the local server.
