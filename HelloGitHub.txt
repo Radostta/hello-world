@@ -1,5 +1,7 @@
 Hello, GitHub!
 
+Р”РѕР±Р°РІРёС… РЅРѕРІ СЂРµРґ.
+
 This is a change, made from the remote server.
 
 Добавям втори ред.
