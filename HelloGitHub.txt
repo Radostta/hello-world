@@ -8,6 +8,8 @@ This is a change, made from the remote server.
 
 This is a change, made from the local server.
 
+Добавям трети ред.
+
 This is a second remote change.
 
 This is a second local change.
